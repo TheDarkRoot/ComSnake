@@ -15,10 +15,10 @@
 
 # Features
 
-- [x] **Supports Windows platforms.**
-- [x] **Set a speed level.**
-- [x] **Save a game.**
-- [x] **Watch game replay.**
+- [x] Supports Windows platforms.
+- [x] Set a speed level.
+- [x] Save a game.
+- [x] Watch game replay.
 
 # Installation
 
