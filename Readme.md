@@ -10,20 +10,25 @@
 
 
 # Description
+
 - Developed snake game for Windows command prompt.
 
 # Features
+
 - [x] **Supports Windows platforms.**
 - [x] **Set a speed level.**
 - [x] **Save a game.**
 - [x] **Watch game replay.**
 
 # Installation
+
+> ***Follow these steps.***
 ```
 $ Download ComSnake game.
 $ Right click: Run as an administrator.
-$ Have fun.
+$ Good game.
 ```
+
 # Screenshot
 
 [<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/ComSnake%2001.png" width=250>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/ComSnake%2001.png)
